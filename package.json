@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/hasanazeerkhan/globalsqa-automation-cypress#readme",
   "devDependencies": {
-    "cypress": "^13.15.0"
+    "cypress": "^13.15.0",
+    "cypress-xpath": "^2.0.1"
   }
 }
