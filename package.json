@@ -1,0 +1,22 @@
+{
+  "name": "globalsqa-automation-cypress",
+  "version": "1.0.0",
+  "description": "A repository for automation commands with cypress ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hasanazeerkhan/globalsqa-automation-cypress.git"
+  },
+  "author": "Mohammed Hasan N",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hasanazeerkhan/globalsqa-automation-cypress/issues"
+  },
+  "homepage": "https://github.com/hasanazeerkhan/globalsqa-automation-cypress#readme",
+  "devDependencies": {
+    "cypress": "^13.15.0"
+  }
+}
